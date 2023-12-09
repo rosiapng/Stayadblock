@@ -3,6 +3,7 @@ Ads block for stay
 
 
 Stay 去广告脚本
+
 *Step*
 在规则添加
 https://raw.githubusercontent.com/rosiapng/Stayadblock/main/stayshenye.txt
